@@ -1,5 +1,5 @@
 # PCB_Design
- A PCB design for a 4-bits multiplier.
+ A PCB design for a 4-bit multiplier.
  Mechanism:
  1- the user enters the two numbers - 3 and 4 bits- using dip switches in their 2's complement form.
  2- the two numbers are multiplied in the -multiplier- unit.
